@@ -1,5 +1,5 @@
-.sidebar {
-  flex: 3;
+.sidebarall {
+  flex: 3px;
   height: fit-content;
   margin: 20px;
   padding-bottom: 30px;
@@ -30,13 +30,13 @@
   font-weight: 600;
 }
 
-.sidebarItem > img {
+.sidebarItem> img {
   margin-top: 15px;
   width: 250px;
   height: 250px;
 }
 
-.sidebarItem > p {
+.sidebarItem> p {
   padding: 30px;
 }
 
