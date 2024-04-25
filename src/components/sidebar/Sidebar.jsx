@@ -6,9 +6,10 @@ export default function Sidebar() {
       <div className="sidebarItem">
         <span className="sidebarTitle">ABOUT ME</span>
         <img
-          src="https://themegoods-cdn-pzbycso8wng.stackpathdns.com/grandblog/demo/wp-content/uploads/2015/11/aboutme.jpeg"
+          src="https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
           alt=""
         />
+
         <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
             Eaque fugit minima veritatis corrupti placeat officia ratione, ad culpa amet aliquid repellendus, pariatur, laboriosam officiis totam nisi saepe eos error necessitatibus.</p>
       </div>

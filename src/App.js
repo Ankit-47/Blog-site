@@ -1,6 +1,6 @@
 import React from 'react';
-import Single from "./pages/single/Single"
 import TopBar from "./components/topbar/TopBar";
+import Register from './pages/register/Register';
 
 
 
@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <TopBar />
-      <Single /> 
+      <Register/> 
     </>
   );
 }
