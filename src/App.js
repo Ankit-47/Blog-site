@@ -8,8 +8,6 @@ import Single from "./pages/single/Single";
 import Write from "./pages/write/Write";
 
 
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-
 
 
 
